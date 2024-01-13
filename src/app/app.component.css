@@ -1,0 +1,68 @@
+
+
+h2{
+    justify-content: center;
+    text-align: center;
+    padding : 40px;
+    
+    margin-top: 70px;
+    margin-bottom: 0%;
+    
+}
+
+h5{
+    margin-top: 0%;
+    justify-content: center;
+    text-align: center;
+}
+
+.input-field2 {
+    justify-content: center;
+    text-align: center;
+}
+
+#lastname{
+    justify-content: center;
+    text-align: center;
+    margin-left: 70px 0;
+
+}
+
+.input-field1 input{
+    outline: none;
+    border: 1px solid;
+    width: 100%;
+    padding: 0 15px;
+    font-size: 14px;
+    margin: 8px 0; 
+    height: 32px;   
+}
+.input-field input{
+    outline: none;
+    border: 1px solid;
+    padding: 0 15px;
+    font-size: 14px;
+    margin: 8px 0; 
+    height: 32px;   
+}
+.container{
+    position: relative;
+    max-width: 1000px;
+    width: 100%;
+    border-radius: 6px;
+    padding : 30px;
+    margin: 0 15px;
+    box-shadow: 0 5px 10px rgba(0,0,0.1) ;
+    background-color: #fff;
+    height: fit-content;
+    justify-content:center;
+    margin-left: 150px;
+} 
+
+
+#lastname{
+    margin-left: 5%; 
+    text-align: left;    
+}
+
+
